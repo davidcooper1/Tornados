@@ -8,6 +8,12 @@ The data used in this visualization was derived from the NOAA's NWS Storm Event 
 ## Findings
 While displaying the data I found that the data spiked up in two places, April 2011 and May 2015. In researching the spikes further, it appears that the first major spike, happening in Alabama, Tennessee, and Mississippi, was due to a super outbreak. In fact, the NOAA called it "one of the deadliest and most expensive meteorological disasters on record." [[1]](https://www.ncei.noaa.gov/news/2011-tornado-super-outbreak) The second spike, happening in Texas and Oklahoma, was stated by the NOAA as being the "most active tornado month since April 2011". [[2]](https://www.ncdc.noaa.gov/sotc/tornadoes/201505)
 
+### April 2011 Outbreak
+![Image Not Found](/Screenshots/April 2011.png?raw=true)
+
+### May 2015
+![Image Not Found](/Screenshots/May 2015.png?raw=true)
+
 ## References
 
 [1.) https://www.ncei.noaa.gov/news/2011-tornado-super-outbreak](https://www.ncei.noaa.gov/news/2011-tornado-super-outbreak)<br>
