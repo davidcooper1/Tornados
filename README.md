@@ -2,6 +2,11 @@
 Visualization program for tornado events from 2000 to 2018<br>
 Database Link: [here](https://www.ncdc.noaa.gov/stormevents/)
 
+## Libraries Used
+Bootstrap - UI
+JQuery - DOM Manipulation
+D3 - Visualization of Data
+
 ## Video
 [![Thumbnail not found](/Screenshots/Thumbnail.png?raw=true)](https://youtu.be/BS6PQjrhPI0)
 
