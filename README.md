@@ -3,8 +3,8 @@ Visualization program for tornado events from 2000 to 2018<br>
 Database Link: [here](https://www.ncdc.noaa.gov/stormevents/)
 
 ## Libraries Used
-Bootstrap - UI
-JQuery - DOM Manipulation
+Bootstrap - UI<br>
+JQuery - DOM Manipulation<br>
 D3 - Visualization of Data
 
 ## Video
